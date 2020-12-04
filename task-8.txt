@@ -1,3 +1,5 @@
+// Write a javascript prototype method named beremoveobject which extends array prototype, to remove a object with its value from the array of objects.
+
 <!DOCTYPE html>
 <html>
 <head>
